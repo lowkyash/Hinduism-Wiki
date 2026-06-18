@@ -1,1 +1,2 @@
 # Hinduism-Wiki
+These are my notes about Hindu Philosophy. I used Obsidian and it's Export commmunity addon to create this website. It's not complete and it'll never be. The Hindu Philosophy is just too vast. Here, Hindu includes - Hindu as we know today, and Buddhists, Sikhs, Jains and many minority faiths which took birth on the holy land of India. (ts is so corny but yeah a lot of religions were deep philosophies were born here)
